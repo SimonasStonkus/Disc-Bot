@@ -3,3 +3,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
+Match_records.csv
+/Inventories/76561198002365621.csv
+/Inventories/76561198002365621_history.json
+/Inventories/76561198082782188.csv
+/Inventories/76561198082782188_history.json
+/discord_steam_ids.json
+/3.json
+/2.json

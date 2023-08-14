@@ -1,0 +1,18 @@
+{
+  "Consumer Grade": [176,195,217],
+  "Industrial Grade": [94,152,217],
+  "Mil-Spec Grade": [75,105,255],
+  "Restricted": [136,71,255],
+  "Classified": [211,44,230],
+  "Covert": [235,75,75],
+  "Base Grade": [176,195,217],
+  "Distinguished": [75,105,255],
+  "Superior": [211,44,230],
+  "Exceptional": [136,71,255],
+  "Extraordinary": [235,75,75],
+  "Master": [235,75,75],
+  "High Grade": [75,105,255],
+  "Remarkable": [136,71,255],
+  "Exotic": [211,44,230],
+  "Contraband": [228,174,57]
+}
